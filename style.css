@@ -1,0 +1,27 @@
+h2 {
+    color: red;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right {
+    text-align: right;
+}
+
+.center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.contenido-general {
+    background: #dfd8cf;
+}
+
+#vertebrados {
+    background: #cfdfcf;
+}
